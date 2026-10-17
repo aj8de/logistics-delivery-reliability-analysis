@@ -17,7 +17,7 @@ Customer and Route Investigation Dashboard
 Data Coverage and Definitions Dashboard
 Key Findings
 The supplied on-time delivery flag indicates that 44.61% of deliveries were within the defined appointment window of ±120 minutes.
-Using a stricter definition of delivery on time—arrival at or before the scheduled time—the rate was 33.28%.
+Using a stricter definition of delivery on time arrival at or before the scheduled time the rate was 33.28%.
 The difference between these measures highlights how KPI definitions can affect reported operational performance.
 Data-quality issues were identified that require consideration when interpreting the results.
 Data Quality and Limitations
